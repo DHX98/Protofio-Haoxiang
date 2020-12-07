@@ -18,8 +18,9 @@ https://socialbook.io/help/hashtag-generator/
 
 https://github.com/DHX98/Capstone
 
+### A mutiple player board game: cluewu
 
-
+[Link](https://github.com/DHX98/cs361clue)
 
 ```markdown
 Syntax highlighted code block
