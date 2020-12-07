@@ -7,20 +7,20 @@ An eletric guitar player, cryptocurrency trader.
 
 ## Projects
 
-### a hashtag generator by using picture classification
+### A hashtag generator by using picture classification
 
-https://github.com/DHX98/plugin_hashtag_gen
+[PlugIn_HashtagGen](https://github.com/DHX98/plugin_hashtag_gen/)
 
-https://socialbook.io/help/hashtag-generator/
+[Click to view the plugin](https://socialbook.io/help/hashtag-generator/)
 
 
-### a gesture recognition system based on Intel RealSense camera.
+### A gesture recognition system based on Intel RealSense camera.
 
-https://github.com/DHX98/Capstone
+[Gesture_recognition_RealSense](https://github.com/DHX98/Capstone)
 
 ### A mutiple player board game: cluewu
 
-[Link](https://github.com/DHX98/cs361clue)
+[ClueWu_board_game](https://github.com/DHX98/cs361clue)
 
 ```markdown
 Syntax highlighted code block
