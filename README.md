@@ -1,13 +1,25 @@
 
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/DHX98/protofio-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Haoxiang, studying in Oregon State Universty.
+Candidate for Bachelor of Computer Science, Expected June of 2021.
+An eletric guitar player, cryptocurrency trader.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Projects
 
-### Markdown
+### a hashtag generator by using picture classification
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://github.com/DHX98/plugin_hashtag_gen
+
+https://socialbook.io/help/hashtag-generator/
+
+
+### a gesture recognition system based on Intel RealSense camera.
+
+https://github.com/DHX98/Capstone
+
+
+
 
 ```markdown
 Syntax highlighted code block
