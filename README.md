@@ -6,7 +6,8 @@ Candidate for Bachelor of Computer Science, Expected June of 2021.
 An eletric guitar player, cryptocurrency trader.
 
 
-[My Github](https://github.com/DHX98) 
+[My Github](https://github.com/DHX98)
+
 [My Linkedin](https://www.linkedin.com/in/haoxiang-dai-b5a644195/)
 
 
