@@ -22,9 +22,13 @@ An eletric guitar player, cryptocurrency trader.
 ### A gesture recognition system based on Intel RealSense camera.
 
 [Gesture_recognition_RealSense](https://github.com/DHX98/Capstone)
-
+Design the UI, and middleware to connect the network.
 ### A mutiple player board game: cluewu
 
 [ClueWu_board_game](https://github.com/DHX98/cs361clue)
 
+### A mutiple player board game: cluewu
 
+###
+[A UNIX-Like system](https://github.com/DHX98/Unix-system/)
+Implement the basic feature of os including commands, file changes, decrypting.
